@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="error">ERROR</string>
+    <string name="button_Sin" translatable="false">sin</string>
+    <string name="button_Cos" translatable="false">cos</string>
+    <string name="button_Tan" translatable="false">tan</string>
+    <string name="button_Log" translatable="false">log</string>
+    <string name="button_Ln" translatable="false">ln</string>
+</resources>

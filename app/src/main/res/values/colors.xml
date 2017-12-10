@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackgroundActivity">#000000</color>
+    <color name="colorButtonAct">#424242</color>
+    <color name="colorButtonCenter">#6d6d6d</color>
+    <color name="colorButtonEqually">#00ddff</color>
+</resources>
